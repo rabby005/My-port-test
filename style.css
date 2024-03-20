@@ -1,0 +1,58 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+.flexable-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange,tomato);
+    border-radius: 5cm;
+    color: white;
+    font-weight: 600;
+}
+.benar-img{
+    background-image: url(/images/web3.jpg);
+    /* background-repeat: no-repeat; */
+}
+
+body{
+    margin: 0%;
+}
+.experance-area{
+    /* background-image: url(/images/f2.jpg); */
+}
+.experance-item{
+    /* border-radius: 10px; */
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    /* border-left: 7px solid blue; */
+}
+#full-developer{
+    border-left: 7px solid tomato;
+}
+#baby-developer{
+    border-left: 7px solid blue;
+}
